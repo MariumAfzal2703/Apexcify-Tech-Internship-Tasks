@@ -1,0 +1,1 @@
+AAPL, Quantity: 8, Total: $1440
